@@ -1,4 +1,4 @@
-# NASA-BMS-HIL: Digital Twin & Hardware-in-the-Loop Framework
+# BMS-HIL: Digital Twin & Hardware-in-the-Loop Framework
 
 This project implements a **Real-Time Hardware-in-the-Loop (HIL) Verification Framework** for a Battery Management System (BMS). It uses NASA’s PCoE battery aging datasets to simulate real-world battery physics and stream them to an external controller (e.g., STM32) for state estimation and fault detection.
 
